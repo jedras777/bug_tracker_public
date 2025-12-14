@@ -1,0 +1,13 @@
+.env
+.idea/
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+*.sqlite3
+.env
+*.pem
+*.key
+secrets*
+.env.*
